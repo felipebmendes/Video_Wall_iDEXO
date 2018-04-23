@@ -1,0 +1,18 @@
+application.type=widget
+application.code=kit_slideshow
+application.title=Slideshow
+application.description=Adicione um slideshow de imagens em suas páginas ou comunidades, possibilitando exibir imagens a partir de uma pasta publicada no ECM ou então de uma conta do Instagram.
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=SPON010113783
+developer.name=fmendes
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=true
+application.version=1.6.3
+view.file=view.ftl
+edit.file=edit.ftl
+locale.file.base.name=kit_slideshow
+application.resource.js.1=/resources/js/kit_slideshow.js
+application.resource.css.2=/resources/css/kit_slideshow.css
+
